@@ -1,0 +1,4 @@
+[07-Jan-2022 12:25:41 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/mydemo/public_html/copy_backend/app/Http/Controllers/ApiController.php on line 106
+[07-Jan-2022 12:27:09 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/mydemo/public_html/copy_backend/app/Http/Controllers/ApiController.php on line 106
+[28-Jun-2022 18:09:56 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/mirag9sx/public_html/copy_backend/app/Http/Controllers/TemplateParameterController.php on line 61
+[28-Jun-2022 18:13:20 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/mirag9sx/public_html/copy_backend/app/Http/Controllers/TemplateParameterController.php on line 61
